@@ -1,5 +1,5 @@
 <template>
-<div class="nuevoProducto">
+<form class="nuevoProducto">
     <h1>Nuevo producto</h1>
     <h3>Ingresa los datos del nuevo producto que deseas agregar al sistema.</h3>
      <input 
@@ -31,7 +31,7 @@
       required>
       <br/>
     <button v-on:click="addProducto" class="button">Registrar</button>
-</div>
+</form>
 </template>
 
 

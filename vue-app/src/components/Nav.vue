@@ -51,7 +51,7 @@ export default {
 #nav{
     padding: 35px 30px 30px 30px;
     margin: -35px -10px -10px -10px;
-    background-color: cadetblue;
+    background-color: rgb(97, 113, 114);
 }
 #link{
     font-size: 24px;
@@ -62,6 +62,6 @@ export default {
     text-decoration: none;
 }
 #link:hover{
-    background-color: aquamarine;
+    color: rgb(65, 151, 209);
 }
 </style>
